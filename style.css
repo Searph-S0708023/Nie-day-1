@@ -6,7 +6,7 @@ body{
     width:100px;
     border: 2px solid black;
     border-radius: 50%;
-    margin-left:900px;
+    margin-left:700px;
 }
 #seraph{
     height: 600px;
@@ -17,7 +17,7 @@ body{
     border-bottom-left-radius: 10%;
     border-bottom-right-radius: 10%;
     margin: 10px;
-    margin-left:455px;
+    margin-left:250px;
 }
 #record{
     height: 500px;
@@ -28,7 +28,7 @@ body{
     border-bottom-left-radius: 10%;
     border-bottom-right-radius: 10%;
     margin: 10px;
-    margin-left:550px;
+    margin-left:350px;
 }
 
 #t1{
@@ -93,8 +93,18 @@ button{
 }
 table{
     text-align: center;
-    margin-left: 440px;
+    margin-left: 270px;
 }
 li{
-    margin-left: 850px;
+    margin-left: 670px;
+}
+#aka{
+    height: 400px;
+    width: 1000px;
+    border: 5px solid purple;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    margin: 10px;
 }
